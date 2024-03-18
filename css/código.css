@@ -1,0 +1,46 @@
+body{
+    background-color: gainsboro;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    max-width: 1300px;
+    margin-top: 0%;
+    padding: 10px;
+}
+
+#container_cabecalho{
+    margin: 0%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: lightsteelblue;
+    width: 1800px;
+    height: 200px;
+}
+
+
+#texto_images{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+#images{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+#alunos_exemplos{
+    background-color: lightsteelblue;
+    width: 320px;
+    height: 180px;
+}
+
+#alunos_exemplos2{
+    background-color: lightsteelblue;
+    width: 320px;
+    height: 150px;
+}
+
